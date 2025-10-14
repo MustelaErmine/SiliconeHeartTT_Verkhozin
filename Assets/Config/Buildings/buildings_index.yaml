@@ -1,0 +1,13 @@
+buildings:
+  - sizeX: 4
+    sizeY: 4
+    sprite: buildings[buildings_0]
+    guid: 166a234f-6952-495a-8f16-23b8e823f395
+  - sizeX: 3
+    sizeY: 4
+    sprite: buildings[buildings_1]
+    guid: 7f0155b5-47ef-4138-b4c1-57fbe42adae7
+  - sizeX: 3
+    sizeY: 4
+    sprite: buildings[buildings_2]
+    guid: e5d52d14-3ac5-41eb-a689-1be0838eba6c
